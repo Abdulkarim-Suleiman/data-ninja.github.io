@@ -106,7 +106,7 @@ color: #fff;
      transition: all 0.3s ease;
  }
 
- @media screenm and (max-width: 960px){
+ @media screen and (max-width: 960px){
     .navbar__container{
 
         display: flex;
