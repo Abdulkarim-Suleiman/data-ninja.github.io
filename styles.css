@@ -33,7 +33,7 @@ font-family: 'Kumbh Sans', sans-serif;
     background-color: #ff8177;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     background-size: 100%;
-    display: flex;
+    display: inline;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     align-items: center;
