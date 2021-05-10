@@ -143,11 +143,13 @@ color: #fff;
     height: 50vh;
     font-size: 1.6rem;
  }
+
+
  #navbar__logo{
      padding-left: 25px;
 
  }
- .navbar__toggle.bar{
+ .navbar__toggle .bar{
      width: 25px;
      height: 3px;
      margin: 5px auto;
