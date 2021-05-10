@@ -129,6 +129,7 @@ color: #fff;
     transition: all 0.5s ease;
     height: 50vh;
     z-index: -1;
+    background: #131313;
 
 }
 
