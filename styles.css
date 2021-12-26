@@ -542,7 +542,7 @@
  
   .services__card:nth-child(3) {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(15, 15, 15, 0.5) 100%),
-    url('/images/pic7.jpg');
+    url('/images/pic6.jpg');
     position: relative;
     color: #fff;
     transition: 0.3s ease-in;
@@ -550,7 +550,7 @@
 
   .services__card:nth-child(4) {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(20, 20, 20, 1) 100%),
-    url('/images/pic6.jpg');
+    url('/images/pic7.jpg');
     position: relative;
     color: #fff;
     transition: 0.3s ease-in;
