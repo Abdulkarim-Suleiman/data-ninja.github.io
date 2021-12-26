@@ -534,7 +534,7 @@
  
   .services__card:nth-child(2) {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(15, 15, 15, 0.5) 100%),
-    url('/images/pic4_adobespark.jpg');
+    url('./images/pic4.jpg');
     position: relative;
     color: #fff;
     transition: 0.3s ease-in;
