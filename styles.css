@@ -402,7 +402,7 @@
     justify-content: center;
     color: #fff;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(15, 15, 15, 0.5) 100%),
-    url('/images/pic10.jpg');
+    url('./images/pic10.jpg');
     position: relative;
   }
  
@@ -413,7 +413,7 @@
  
   #card-2 {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(15, 15, 15, 0.5) 100%),
-    url('/images/pic12.jpg');
+    url('./images/pic12.jpg');
     position: relative;
     color: #fff;
   }
@@ -528,7 +528,7 @@
     justify-content: center;
     color: #fff;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(20, 20, 20, 1) 100%),
-    url('/images/pic3.jpg');
+    url('./images/pic3.jpg');
     transition: 0.3s ease-in;
   }
  
@@ -542,7 +542,7 @@
   
   .services__card:nth-child(3) {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(15, 15, 15, 0.5) 100%),
-    url('/images/pic5.jpg');
+    url('./images/pic5.jpg');
     position: relative;
     color: #fff;
     transition: 0.3s ease-in;
@@ -550,7 +550,7 @@
 
   .services__card:nth-child(4) {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0%,rgba(20, 20, 20, 1) 100%),
-    url('/images/pic6.jpg');
+    url('./images/pic6.jpg');
     position: relative;
     color: #fff;
     transition: 0.3s ease-in;
